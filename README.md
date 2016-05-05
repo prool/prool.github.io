@@ -1,2 +1,1 @@
-# prool.github.io
-prool's github page
+# prool.github.io http://prool.github.io
