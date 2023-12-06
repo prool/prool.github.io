@@ -2,7 +2,7 @@
 
 Prool's site on Github - сайт Пруля на Гитхабе
 
-[![Prool's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prool&show_icons=true)](https://github.com/prool)
+[![Prool's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prool&show_icons=true)]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prool&hide_progress=false)
 
